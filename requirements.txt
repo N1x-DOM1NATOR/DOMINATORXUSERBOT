@@ -6,6 +6,7 @@ cfscrape
 colour
 DateTime
 emoji
+flask
 fonttools
 geopy
 gitpython
@@ -15,6 +16,7 @@ google-auth-httplib2
 google-auth-oauthlib
 gsearch
 gtts
+gunicorn
 hachoir
 heroku3
 html-telegraph-poster
